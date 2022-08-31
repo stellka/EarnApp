@@ -33,7 +33,6 @@ class MainActivity : AppCompatActivity(), CategoryAdapter.Listener, Animation.An
         outAnimation = AnimationUtils.loadAnimation(this, R.anim.alpha_out)
         outAnimation.setAnimationListener(this)
         initAdMob()
-        (application as AppMainState).showAdIfAvailable(this){}
         initRcView()
         binding.imageBg.setOnClickListener {
 
