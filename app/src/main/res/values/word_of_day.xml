@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="word">
+        <item>НОЧЬ|</item>
+        <item>ГАЛАКТИКА|</item>
+        <item>ЭНЕРГИЯ|</item>
+        <item>СЧАСТЬЕ|</item>
+        <item>ЗАНАЧКА|</item>
+        <item>НЕЗАВИСИМОСТЬ|</item>
+        <item>ПОБЕДА|</item>
+        <item>ЯРОСТЬ|</item>
+        <item>ПРЕЗЕНТ|</item>
+        <item>ЗАТМЕНИЕ|</item>
+        <item>РАЗГАР|</item>
+    </string-array>
+</resources>

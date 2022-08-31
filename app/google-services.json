@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253369945976",
+    "project_id": "earn-app-55215",
+    "storage_bucket": "earn-app-55215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253369945976:android:58ac4a9b91a247c10bc28d",
+        "android_client_info": {
+          "package_name": "com.steluxa.earnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253369945976-trllac8r5igk7prl9hgg0ut8nd279mlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLrddpdmViilFI-OpJjS2f-P-iA_nktA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253369945976-trllac8r5igk7prl9hgg0ut8nd279mlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
